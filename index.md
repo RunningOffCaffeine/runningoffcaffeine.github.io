@@ -20,6 +20,6 @@ My GitHub page is http://github.com/RunningOffCaffeine.
 
 * Lab 12, Part 2
 
-    ![noise Imposed Image](Noise.jpg)
+    ![noise Imposed Image](Noise.gif)
 
     Lab 12, Part 2 was a favorite because it was fun to see how noise can be used to create an image. it was very fun to see the patterns that can for in the noise.
